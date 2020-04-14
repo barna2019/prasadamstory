@@ -1,0 +1,13 @@
+{
+  "name": "Indian food cooking",
+  "short_name": "foodcooking-inspiration",
+  "description": "Learn how to cook basic Indian recipes and traditional Bengali food.",
+  "start_url": "/?homescreen=1",
+  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "icons": [{
+    "src": "  https://1.bp.blogspot.com/-_ejaUfk3mUI/XpVCSdf8xEI/AAAAAAACQyE/Ymq8-Fp4sCcQ0dXuuRpy7H3ky7MTN8eWACK4BGAsYHg/sand_clock_256.ico",
+    "sizes": "256x256",
+    "type": "image/png"
+  }]
+}
